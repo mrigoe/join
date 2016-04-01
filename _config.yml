@@ -1,0 +1,9 @@
+permalink: pretty
+gems:
+  - jekyll-redirect-from
+sass:
+  style: compressed
+exclude:
+  - CNAME
+  - README.md
+  - LICENSE.md
